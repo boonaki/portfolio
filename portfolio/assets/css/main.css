@@ -3312,6 +3312,17 @@ input, select, textarea {
 			#serviceSecs h3:after{
 				width: 100%;
 			}
+
+			.idkrn{
+				width: 100%;
+			}
+
+			.about .aboutH2{
+				width: 100%;
+			}
+			.about p{
+				width: 100%;
+			}
 	}
 
 /* XSmall */
