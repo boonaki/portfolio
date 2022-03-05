@@ -2245,9 +2245,9 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
-	/* .services{
-		margin-top: 10%;
-	} */
+	#adjustment{
+		margin-top: 5%;
+	}
 
 		ul li {
 			padding-left: 0.5em;
