@@ -3178,6 +3178,9 @@ input, select, textarea {
 				width: 100%;
 				display: block;
 			}
+			#header > *{
+				width: 100%;
+			}
 
 				#header h1 {
 					font-size: 1.75em;
